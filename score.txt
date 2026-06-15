@@ -1,0 +1,16 @@
+20240001,Alice,Calculus,85
+20240002,Bob,Calculus,92
+20240003,Charlie,Calculus,89
+20240001,Alice,English,88
+20240002,Bob,English,76
+20240004,Diana,Calculus,95
+20240003,Charlie,English,88
+20240004,Diana,English,91
+20240005,Eve,Calculus,60
+20240006,Frank,Calculus,55
+20240005,Eve,English,67
+20240007,Grace,Calculus,73
+20240006,Frank,English,56
+20240007,Grace,English,72
+20240008,Yeye,English,100
+20240009,Popo,Math,99
